@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="E:\Dropbox\visual studio 2010_Projects\CPHBusiness\SQL_Injection_v2\SQL_Injection\sql_test" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FTP" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="App_Data/DatabaseTEST.mdb" publishTime="10/03/2012 09:56:07" />
+    <file relUrl="Site.Master" publishTime="10/03/2012 09:37:01" />
+    <file relUrl="Account/Register.aspx" publishTime="10/03/2012 09:37:01" />
+    <file relUrl="bin/SQL_Injection.pdb" publishTime="11/10/2012 02:05:46" />
+    <file relUrl="Account/Web.config" publishTime="10/03/2012 09:37:01" />
+    <file relUrl="Account/Login.aspx" publishTime="10/03/2012 09:37:01" />
+    <file relUrl="Styles/Site.css" publishTime="10/03/2012 09:37:01" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="10/03/2012 09:37:01" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="10/03/2012 09:37:01" />
+    <file relUrl="Web.config" publishTime="11/10/2012 02:10:31" />
+    <file relUrl="Global.asax" publishTime="10/03/2012 09:37:01" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="10/03/2012 09:37:01" />
+    <file relUrl="About.aspx" publishTime="10/03/2012 09:37:01" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="10/03/2012 09:37:01" />
+    <file relUrl="Default.aspx" publishTime="10/03/2012 11:54:33" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="10/03/2012 09:37:01" />
+    <file relUrl="bin/SQL_Injection.dll" publishTime="11/10/2012 02:05:46" />
+  </publishProfile>
+</publishData>
