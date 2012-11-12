@@ -13,3 +13,8 @@ E:\Dropbox\visual studio 2010_Projects\CPHBusiness\SQL_Injection_v2\SQL_Injectio
 E:\Dropbox\visual studio 2010_Projects\CPHBusiness\SQL_Injection_v2\SQL_Injection\SQL_Injection\obj\Debug\SQL_Injection.csprojResolveAssemblyReference.cache
 E:\Dropbox\visual studio 2010_Projects\CPHBusiness\SQL_Injection_v2\SQL_Injection\SQL_Injection\obj\Debug\SQL_Injection.dll
 E:\Dropbox\visual studio 2010_Projects\CPHBusiness\SQL_Injection_v2\SQL_Injection\SQL_Injection\obj\Debug\SQL_Injection.pdb
+E:\Dropbox\visual studio 2010_Projects\CPHBusiness\SQL_Injection_v2\SQL_Injection\sql_test\login\SQL_Injection\bin\SQL_Injection.dll
+E:\Dropbox\visual studio 2010_Projects\CPHBusiness\SQL_Injection_v2\SQL_Injection\sql_test\login\SQL_Injection\bin\SQL_Injection.pdb
+E:\Dropbox\visual studio 2010_Projects\CPHBusiness\SQL_Injection_v2\SQL_Injection\sql_test\login\SQL_Injection\obj\Debug\SQL_Injection.csprojResolveAssemblyReference.cache
+E:\Dropbox\visual studio 2010_Projects\CPHBusiness\SQL_Injection_v2\SQL_Injection\sql_test\login\SQL_Injection\obj\Debug\SQL_Injection.dll
+E:\Dropbox\visual studio 2010_Projects\CPHBusiness\SQL_Injection_v2\SQL_Injection\sql_test\login\SQL_Injection\obj\Debug\SQL_Injection.pdb
