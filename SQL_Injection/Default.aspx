@@ -18,7 +18,7 @@
         <asp:Button ID="ButtonSend" runat="server" onclick="ButtonSend_Click" 
             Text="UnSafe Login" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:Button ID="Safe" runat="server" onclick="Safe_Click" Text="Server IP" />
+        <asp:Button ID="Safe" runat="server" onclick="GetIP_Click" Text="Server IP" />
     </p>
     <p>
         Name:&nbsp;

@@ -59,9 +59,8 @@ namespace SQL_Injection
 
         }
 
-        protected void Safe_Click(object sender, EventArgs e)
+        protected void GetIP_Click(object sender, EventArgs e)
         {
-
             String whatIsMyIp = "http://automation.whatismyip.com/n09230945.asp";
             WebClient wc = new WebClient();
             UTF8Encoding utf8 = new UTF8Encoding();
